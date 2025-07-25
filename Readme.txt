@@ -1,25 +1,22 @@
-# 🧾 Audit Office Website Development Project
+## My Portfolio Website
 
-This repository contains the source code and documentation for the Audit Office Website — a secure, user-friendly platform designed to improve information accessibility, transparency, and service delivery within the Audit Office.
+This is my personal portfolio website (virtual CV) showcasing:
 
-## 📌 Project Purpose
+- About Me
+- Resume
+- Projects with GitHub links
+- Skills
+- Contact Information
 
-The website serves as a central digital hub for:
-- Publishing audit reports and notices
-- Communicating with the public and stakeholders
-- Providing access to relevant legislation and policies
-- Supporting document downloads, contact forms, and feedback
+## How to View
 
-## 🌐 Features
+You can open `index.html` in a browser, or view the live version here (add live link if hosted).
 
-- 📄 Public access to audit reports and press releases
-- 📬 Contact and feedback forms with email integration
-- 🗂 Downloadable resources (e.g., tenders, policies)
-- 🔒 Basic user authentication for admin panel
-- 🖥️ Responsive design for mobile, tablet, and desktop
-- 🧾 CMS-style backend for updating content
+## How to Run Locally
 
-## 🛠 Tech Stack
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 
 - **Backend:** PHP and Python  
